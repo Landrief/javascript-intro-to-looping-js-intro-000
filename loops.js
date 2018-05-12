@@ -1,5 +1,9 @@
 for (let i = 0; i < 25; i++) {
-  if(console.log("I am 1 strange loop."));
+  if( i = 1
 
-  else(console.log("I am ${i} strange loops."));
+    return console.log("I am 1 strange loop."));
+
+  else(
+
+    return console.log("I am ${i} strange loops."));
 }
